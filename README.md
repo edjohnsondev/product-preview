@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/yourusername/product-preview-card](https://github.com/yourusername/product-preview-card)
-- Live Site URL: [https://yourusername.github.io/product-preview-card](https://yourusername.github.io/product-preview-card)
+- Solution URL: [https://github.com/edjohnsondev/product-preview](https://github.com/edjohnsondev/product-preview)
+- Live Site URL: [https://product-preview-opal.vercel.app/](https://product-preview-opal.vercel.app/)
 
 ## My process
 
